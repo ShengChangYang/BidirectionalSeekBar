@@ -1,6 +1,9 @@
 # BidirectionalSeekBar
 Demostration of bidirentional progress drawable.
 
+### Screenshot
+<img src="sample.gif"/>
+
 ### License
 ```license
    Copyright 2016 Sheng-Chang Yang
