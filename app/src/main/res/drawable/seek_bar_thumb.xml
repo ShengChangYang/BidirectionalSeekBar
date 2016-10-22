@@ -7,7 +7,7 @@
                     <size
                         android:width="40dp"
                         android:height="40dp"/>
-                    <solid android:color="#4CE85298"/>
+                    <solid android:color="#40AA00AA"/>
                 </shape>
             </item>
             <item
@@ -19,7 +19,7 @@
                     <size
                         android:width="10dp"
                         android:height="10dp"/>
-                    <solid android:color="#FFE85298"/>
+                    <solid android:color="#FFFF00FF"/>
                 </shape>
             </item>
         </layer-list>
@@ -37,7 +37,7 @@
                     <size
                         android:width="10dp"
                         android:height="10dp"/>
-                    <solid android:color="#FFE85298"/>
+                    <solid android:color="#FFFF00FF"/>
                 </shape>
             </item>
         </layer-list>
